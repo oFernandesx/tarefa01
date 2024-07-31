@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Conclusão do projeto, esse foi o teste do git e github :)
+=======
+faizu eli
+>>>>>>> 9da68d3d9d386be52789dcab59f6fa6759552daa
