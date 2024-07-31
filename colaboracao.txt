@@ -1,18 +1,1 @@
-<html>
-    <head>
-        <title>
-            "minha pagina"
-        </title>
-    </head>
-    <body>
-        <h1>
-            "alteracao no clone"
-        </h1>
-        <h2>
-            "new branche"
-        </h2>
-        <p>
-            "hello world"
-        </p>
-    </body>
-</html>
+ola caio e daniel, estamos testando isso
